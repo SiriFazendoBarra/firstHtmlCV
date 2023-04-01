@@ -1,0 +1,131 @@
+html {
+    width: 100%;
+}
+
+body {
+    width: 98%;
+    position: absolute;
+
+
+}
+
+main {
+    width: 70%;
+    position: absolute;
+
+}
+
+table {
+    text-align: justify;
+    margin-bottom: 0px;
+
+
+}
+
+th {
+    width: 150px;
+    vertical-align: text-top;
+
+
+}
+
+img {
+    width: 300px;
+    position: relative;
+
+
+
+}
+
+#foto {
+    background-color: aqua;
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+
+
+    border-radius: 150px;
+
+}
+
+div {
+    margin: 0px;
+}
+
+.seccion {
+
+
+    margin: 0px;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+
+
+}
+
+#tabla3 td,
+tr {
+
+    padding: 0px 0px 0px 0px;
+    vertical-align: top;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: left;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+#tabla1 {
+    width: 100%;
+}
+
+.izquierda {
+    width: 50%;
+    padding-left: auto;
+    padding-right: auto;
+    vertical-align: top;
+    padding: 10px 10px 10px 10px;
+    border-radius: 15px;
+
+}
+
+.derecha {
+    width: 30%;
+    vertical-align: top;
+    padding: 10px 10px 10px 10px;
+    padding-left: auto;
+    padding-right: auto;
+    border-radius: 15px;
+}
+
+#a {
+    background-color: rgb(111, 55, 163);
+    color: rgb(223, 217, 217);
+}
+
+#b {
+    background-color: rgb(50, 97, 168);
+    vertical-align: middle;
+    text-align: center;
+    padding: 0px;
+}
+
+#c {
+    background-color: rgb(202, 153, 62);
+}
+
+#d {
+
+    background-color: rgb(170, 187, 20);
+}
